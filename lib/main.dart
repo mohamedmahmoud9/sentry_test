@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          // Text(test),
+          Text(test),
           Center(
               child: ElevatedButton(
             onPressed: () {
